@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { createRefer, fetchrefer } from "../Controllers/refferalcontroller.js";
+import { createRefer, fetchrefer } from "../controllers/refferalcontroller.js";
 // import { createRefer, fetchrefer } from "../controllers/refferalcontroller";
 
 const router = Router();
