@@ -102,16 +102,7 @@ export const createRefer = async (req, res, next) => {
                   </div>
                   <div class="content">
                       <h1>Hi ${message},</h1>
-                      <p>Your friend, has invited you to join our platform. Discover amazing features and connect with a community that shares your interests.</p>
-                      <p>Click the button below to get started:</p>
-                      <a href="[Referral Link]" class="button">Join Now</a>
-                      <p>If the button doesn't work, copy and paste the following link into your browser:</p>
-                      <p>[Referral Link]</p>
-                  </div>
-                  <div class="footer">
-                      <p>&copy; 2024 Your Company. All rights reserved.</p>
-                      <p>Your Company, 1234 Street, City, State, ZIP</p>
-                  </div>
+                      <p>Your friend, has invited you to join our platform. Discover amazing features and connect with Accredian.</p>
               </div>
           </body>
           </html>`
